@@ -1,3 +1,5 @@
+## Script to download all the files available in a file share directory to local machine in one go
+
 from azure.storage.fileshare import ShareClient
 import os
 
